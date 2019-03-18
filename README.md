@@ -1,6 +1,6 @@
-#实验目的<br>
-验证Activity的生命周期，在调用onCreate(),onStart(),onResume(),onPause(),onStop()onDestroy()和onRestart()函数时会相应地输出正在调用哪些函数。<br>
-#关键代码<br>
+实验目的
+验证Activity的生命周期，在调用onCreate(),onStart(),onResume(),onPause(),onStop()onDestroy()和onRestart()函数时会相应地输出正在调用哪些函数。
+关键代码
 ```
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,5 +44,6 @@
         super.onRestart();
         Log.i("MainActivityLife","--onRestart()--");
     }
-```<br>
+```
+<br>
 #结果截图<br>
