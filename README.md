@@ -1,6 +1,6 @@
 实验目的<br>
 --
-    验证Activity的生命周期，在调用onCreate(),onStart(),onResume(),onPause(),onStop()onDestroy()和onRestart()函数时会相应地输出正在调用哪些函数。<br>
+    验证Activity的生命周期，在调用onCreate(),onStart(),onResume(),onPause(),onStop()onDestroy()和onRestart()函数时会相应地输出正在调用哪些函数。
 关键代码<br>
 --
 ```
@@ -48,6 +48,6 @@
     }
 ```
 
-结果截图
+结果截图<br>
 --
-<br>
+
