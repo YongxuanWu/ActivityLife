@@ -51,4 +51,5 @@
 结果截图<br>
 --
 ![image](https://github.com/YongxuanWu/ActivityLife/blob/master/images/%E6%8D%95%E8%8E%B7.PNG)
+![image](https://github.com/YongxuanWu/ActivityLife/blob/master/images/IMG_20190320_233555.jpg)
 
